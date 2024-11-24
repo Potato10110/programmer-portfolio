@@ -1,4 +1,5 @@
 # Simple Portfolio (Unfinished)
+  exploring and learning the vue.js and tailwind.css 
 
 ## Project setup
 ```
